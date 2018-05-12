@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7587
     wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34973#The-Spy-of-the-RebellionArmy-during-the-Late-Rebellion-
 gutenberg_issued: '2011-01-15'
 gutenberg_type: Text
 identifiers:
